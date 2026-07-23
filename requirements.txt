@@ -1,0 +1,11 @@
+# Voice and Chat Assistant using LLM
+# streamlit, API, LLM, llama, GROQ, text to speech, speech to text
+
+groq 
+SpeechRecognition
+pyttsx3
+pyaudio
+python-dotenv
+streamlit
+
+# pip install -r requirements.txt
